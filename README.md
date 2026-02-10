@@ -9,4 +9,5 @@
   <img alt="Javascript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-A-001e36?logo=adobephotoshop&logoColor=fff&style=for-the-badge&colorA=001e36&colorB=31a8ff" />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt=Power BI src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)" />
   
