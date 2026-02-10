@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Siddhartha Vk! 
 ---
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+![](https://komarev.com/ghpvc/?username=fowlcuber-boop&color=fb4362)
 
 <h3>When I code, I rely on</h3>
 <p>
@@ -10,5 +10,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
   <img alt="Power BI" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)" />
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![Siddhartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=fowlcuber-boop)](https://github.com/fowlcuber-boop/github-readme-stats)
+
+
 
