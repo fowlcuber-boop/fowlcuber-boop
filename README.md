@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Siddhartha Vk! 
+## 👋 Hi there, I'm Siddhartha! 
 ---
 
 ![](https://komarev.com/ghpvc/?username=fowlcuber-boop&color=fb4362)
